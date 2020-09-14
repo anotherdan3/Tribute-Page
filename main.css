@@ -1,0 +1,58 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto Slab', serif;
+  background-color: #ffffd2;
+}
+#title-container {
+  background-color: #a8d8ea;
+}
+
+#title {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#title-container p {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#img-div {
+  background-color: #fcbad3;
+  padding-top: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+#img-div img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+#img-caption {
+  padding-bottom: 10px;
+}
+
+#tribute-info {
+  padding: 40px 0;
+  width: 300px;
+  margin: auto;
+}
+
+#tribute-info li {
+  padding: 10px 0;
+}
+
+#tribute-footer {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  background-color: #aa96da;
+}
